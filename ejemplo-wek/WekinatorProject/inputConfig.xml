@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<OSCInputGroup>
+  <oscMessage>/utn/mfp</oscMessage>
+  <numInputs>2</numInputs>
+  <groupName>Inputs</groupName>
+  <inputNames>
+    <string>x</string>
+    <string>y</string>
+  </inputNames>
+</OSCInputGroup>
